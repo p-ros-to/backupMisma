@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    max-width: 1170px;
+    min-width: 320px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+#wrapper {
+    position: relative;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+    padding: 25px 0 0 30px;
+    margin-bottom: 35px;
+    color: #ffffff;
+}
